@@ -1,0 +1,1208 @@
+Date,Supplier,Product,Quantity,Total Cost
+2026-01-01,Vendor 4,Standard Widget,165,8250
+2026-01-01,Supplier Alpha,Gadget Pro,22,3850
+2026-01-01,Supplier Alpha,Gadget Pro,108,18900
+2026-01-02,Supplier Alpha,Low Stock Item,105,13650
+2026-01-02,Vendor 3,Gadget Lite,183,10065
+2026-01-02,Supplier Alpha,Declining Product,144,9360
+2026-01-02,Supplier Alpha,Premium Widget,64,7680
+2026-01-02,Vendor 3,Budget Widget,112,2016
+2026-01-02,Supplier Beta,Gadget Lite,28,1540
+2026-01-02,Supplier Alpha,Gadget Pro,49,8575
+2026-01-03,Supplier Alpha,Declining Product,80,5200
+2026-01-03,Supplier Beta,Low Stock Item,70,9100
+2026-01-04,Supplier Beta,Gadget Lite,164,9020
+2026-01-04,Supplier Alpha,Budget Widget,42,756
+2026-01-04,Supplier Beta,Budget Widget,76,1368
+2026-01-04,Supplier Beta,Premium Widget,137,16440
+2026-01-04,Vendor 4,Budget Widget,195,3510
+2026-01-05,Supplier Alpha,Premium Widget,109,13080
+2026-01-05,Vendor 5,Low Stock Item,64,8320
+2026-01-05,Supplier Alpha,Gadget Pro,143,25025
+2026-01-05,Supplier Beta,Gadget Lite,91,5005
+2026-01-05,Supplier Alpha,Gadget Lite,51,2805
+2026-01-05,Supplier Alpha,Premium Widget,184,22080
+2026-01-06,Supplier Beta,Gadget Pro,156,27300
+2026-01-06,Supplier Beta,Low Stock Item,95,12350
+2026-01-06,Supplier Beta,Declining Product,104,6760
+2026-01-06,Supplier Alpha,Declining Product,188,12220
+2026-01-06,Supplier Alpha,Premium Widget,197,23640
+2026-01-06,Supplier Beta,Premium Widget,118,14160
+2026-01-07,Supplier Alpha,Gadget Pro,184,32200
+2026-01-07,Supplier Beta,Gadget Lite,121,6655
+2026-01-07,Supplier Beta,Budget Widget,40,720
+2026-01-07,Supplier Alpha,Standard Widget,45,2250
+2026-01-07,Vendor 2,Premium Widget,101,12120
+2026-01-08,Vendor 12,Low Stock Item,101,13130
+2026-01-08,Supplier Alpha,Standard Widget,119,5950
+2026-01-08,Vendor 3,Premium Widget,152,18240
+2026-01-08,Supplier Alpha,Gadget Pro,82,14350
+2026-01-08,Vendor 7,Standard Widget,63,3150
+2026-01-09,Supplier Alpha,Low Stock Item,103,13390
+2026-01-09,Vendor 3,Low Stock Item,188,24440
+2026-01-09,Supplier Beta,Declining Product,43,2795
+2026-01-10,Supplier Alpha,Gadget Lite,132,7260
+2026-01-10,Vendor 4,Gadget Lite,178,9790
+2026-01-10,Supplier Beta,Premium Widget,185,22200
+2026-01-11,Supplier Beta,Gadget Pro,102,17850
+2026-01-11,Vendor 5,Gadget Lite,70,3850
+2026-01-11,Supplier Beta,Gadget Pro,94,16450
+2026-01-11,Vendor 14,Gadget Pro,135,23625
+2026-01-11,Vendor 8,Budget Widget,51,918
+2026-01-11,Supplier Beta,Declining Product,108,7020
+2026-01-11,Vendor 9,Standard Widget,44,2200
+2026-01-12,Supplier Alpha,Budget Widget,76,1368
+2026-01-12,Vendor 4,Gadget Pro,130,22750
+2026-01-12,Supplier Beta,Declining Product,110,7150
+2026-01-12,Supplier Beta,Declining Product,34,2210
+2026-01-12,Supplier Alpha,Standard Widget,106,5300
+2026-01-13,Supplier Beta,Declining Product,129,8385
+2026-01-13,Supplier Beta,Low Stock Item,184,23920
+2026-01-14,Supplier Beta,Gadget Pro,57,9975
+2026-01-14,Supplier Alpha,Declining Product,151,9815
+2026-01-14,Supplier Beta,Budget Widget,73,1314
+2026-01-14,Supplier Beta,Declining Product,89,5785
+2026-01-14,Vendor 11,Gadget Pro,86,15050
+2026-01-14,Supplier Beta,Premium Widget,192,23040
+2026-01-14,Vendor 5,Standard Widget,165,8250
+2026-01-15,Supplier Alpha,Budget Widget,169,3042
+2026-01-15,Vendor 7,Premium Widget,21,2520
+2026-01-15,Supplier Alpha,Low Stock Item,188,24440
+2026-01-15,Supplier Alpha,Low Stock Item,144,18720
+2026-01-15,Supplier Alpha,Low Stock Item,161,20930
+2026-01-16,Supplier Alpha,Declining Product,40,2600
+2026-01-16,Supplier Alpha,Low Stock Item,47,6110
+2026-01-17,Supplier Alpha,Premium Widget,125,15000
+2026-01-17,Supplier Alpha,Gadget Lite,154,8470
+2026-01-17,Vendor 8,Gadget Pro,112,19600
+2026-01-17,Supplier Alpha,Premium Widget,150,18000
+2026-01-17,Supplier Beta,Gadget Pro,132,23100
+2026-01-17,Supplier Beta,Gadget Pro,52,9100
+2026-01-18,Supplier Beta,Low Stock Item,42,5460
+2026-01-18,Supplier Alpha,Standard Widget,150,7500
+2026-01-18,Supplier Beta,Gadget Lite,131,7205
+2026-01-19,Vendor 2,Declining Product,145,9425
+2026-01-19,Supplier Alpha,Premium Widget,177,21240
+2026-01-19,Vendor 8,Budget Widget,165,2970
+2026-01-19,Supplier Alpha,Budget Widget,55,990
+2026-01-20,Vendor 12,Declining Product,193,12545
+2026-01-20,Vendor 13,Standard Widget,108,5400
+2026-01-20,Supplier Alpha,Declining Product,128,8320
+2026-01-20,Supplier Alpha,Premium Widget,152,18240
+2026-01-20,Vendor 6,Declining Product,128,8320
+2026-01-20,Supplier Beta,Premium Widget,118,14160
+2026-01-20,Supplier Alpha,Declining Product,63,4095
+2026-01-21,Supplier Beta,Budget Widget,156,2808
+2026-01-21,Supplier Beta,Standard Widget,156,7800
+2026-01-21,Supplier Alpha,Budget Widget,51,918
+2026-01-21,Supplier Beta,Premium Widget,68,8160
+2026-01-21,Supplier Beta,Premium Widget,141,16920
+2026-01-22,Vendor 7,Gadget Lite,182,10010
+2026-01-22,Vendor 8,Budget Widget,134,2412
+2026-01-22,Supplier Beta,Declining Product,199,12935
+2026-01-22,Supplier Beta,Low Stock Item,56,7280
+2026-01-23,Supplier Beta,Standard Widget,177,8850
+2026-01-23,Vendor 11,Standard Widget,47,2350
+2026-01-24,Supplier Beta,Budget Widget,150,2700
+2026-01-24,Supplier Beta,Declining Product,91,5915
+2026-01-24,Vendor 13,Budget Widget,34,612
+2026-01-24,Supplier Alpha,Budget Widget,36,648
+2026-01-24,Supplier Beta,Budget Widget,33,594
+2026-01-24,Supplier Beta,Budget Widget,197,3546
+2026-01-24,Supplier Beta,Gadget Pro,76,13300
+2026-01-24,Supplier Beta,Budget Widget,142,2556
+2026-01-25,Supplier Beta,Premium Widget,62,7440
+2026-01-25,Supplier Alpha,Gadget Pro,152,26600
+2026-01-25,Vendor 13,Gadget Pro,83,14525
+2026-01-25,Supplier Alpha,Premium Widget,128,15360
+2026-01-25,Supplier Beta,Gadget Lite,54,2970
+2026-01-26,Vendor 10,Declining Product,127,8255
+2026-01-26,Vendor 6,Declining Product,60,3900
+2026-01-26,Vendor 13,Premium Widget,127,15240
+2026-01-26,Vendor 11,Premium Widget,80,9600
+2026-01-26,Vendor 4,Standard Widget,116,5800
+2026-01-26,Supplier Beta,Declining Product,85,5525
+2026-01-27,Vendor 1,Gadget Lite,195,10725
+2026-01-27,Supplier Alpha,Low Stock Item,140,18200
+2026-01-27,Vendor 12,Gadget Lite,48,2640
+2026-01-27,Supplier Alpha,Premium Widget,75,9000
+2026-01-28,Vendor 5,Premium Widget,179,21480
+2026-01-28,Vendor 6,Gadget Pro,150,26250
+2026-01-28,Supplier Alpha,Declining Product,70,4550
+2026-01-28,Supplier Alpha,Gadget Lite,33,1815
+2026-01-28,Supplier Alpha,Declining Product,121,7865
+2026-01-28,Supplier Beta,Gadget Pro,112,19600
+2026-01-28,Supplier Beta,Declining Product,150,9750
+2026-01-29,Supplier Beta,Low Stock Item,160,20800
+2026-01-29,Supplier Beta,Budget Widget,148,2664
+2026-01-29,Supplier Beta,Low Stock Item,111,14430
+2026-01-29,Supplier Beta,Premium Widget,45,5400
+2026-01-29,Supplier Alpha,Declining Product,174,11310
+2026-01-29,Vendor 7,Premium Widget,185,22200
+2026-01-29,Vendor 1,Declining Product,170,11050
+2026-01-29,Vendor 3,Gadget Lite,77,4235
+2026-01-30,Vendor 13,Budget Widget,44,792
+2026-01-30,Supplier Alpha,Standard Widget,146,7300
+2026-01-30,Supplier Beta,Declining Product,153,9945
+2026-01-30,Vendor 9,Gadget Pro,175,30625
+2026-01-30,Supplier Beta,Standard Widget,24,1200
+2026-01-30,Supplier Alpha,Declining Product,104,6760
+2026-01-30,Supplier Alpha,Premium Widget,101,12120
+2026-01-31,Supplier Alpha,Budget Widget,63,1134
+2026-01-31,Supplier Beta,Declining Product,115,7475
+2026-01-31,Vendor 13,Standard Widget,75,3750
+2026-02-01,Supplier Beta,Low Stock Item,115,14950
+2026-02-01,Supplier Alpha,Standard Widget,181,9050
+2026-02-01,Vendor 7,Gadget Lite,196,10780
+2026-02-01,Supplier Alpha,Low Stock Item,89,11570
+2026-02-02,Vendor 11,Gadget Pro,165,28875
+2026-02-02,Supplier Beta,Premium Widget,97,11640
+2026-02-02,Vendor 4,Low Stock Item,128,16640
+2026-02-02,Supplier Beta,Premium Widget,56,6720
+2026-02-02,Supplier Beta,Declining Product,145,9425
+2026-02-02,Supplier Alpha,Gadget Pro,70,12250
+2026-02-02,Supplier Beta,Declining Product,37,2405
+2026-02-02,Vendor 12,Standard Widget,50,2500
+2026-02-03,Vendor 11,Low Stock Item,180,23400
+2026-02-03,Supplier Beta,Low Stock Item,184,23920
+2026-02-03,Supplier Beta,Standard Widget,36,1800
+2026-02-03,Supplier Alpha,Premium Widget,153,18360
+2026-02-04,Supplier Alpha,Budget Widget,32,576
+2026-02-04,Vendor 1,Gadget Lite,64,3520
+2026-02-04,Supplier Beta,Premium Widget,75,9000
+2026-02-04,Supplier Beta,Standard Widget,82,4100
+2026-02-04,Vendor 12,Standard Widget,75,3750
+2026-02-04,Supplier Beta,Gadget Lite,182,10010
+2026-02-04,Supplier Alpha,Budget Widget,180,3240
+2026-02-04,Supplier Beta,Gadget Lite,120,6600
+2026-02-05,Vendor 13,Declining Product,140,9100
+2026-02-05,Supplier Beta,Gadget Pro,56,9800
+2026-02-05,Vendor 11,Low Stock Item,65,8450
+2026-02-06,Supplier Alpha,Declining Product,54,3510
+2026-02-06,Supplier Beta,Low Stock Item,54,7020
+2026-02-07,Vendor 2,Declining Product,106,6890
+2026-02-07,Vendor 12,Declining Product,195,12675
+2026-02-08,Supplier Alpha,Standard Widget,56,2800
+2026-02-08,Supplier Alpha,Gadget Pro,90,15750
+2026-02-08,Supplier Alpha,Low Stock Item,127,16510
+2026-02-08,Supplier Beta,Premium Widget,176,21120
+2026-02-08,Supplier Alpha,Declining Product,43,2795
+2026-02-08,Supplier Beta,Premium Widget,128,15360
+2026-02-09,Vendor 9,Gadget Pro,130,22750
+2026-02-09,Vendor 7,Standard Widget,74,3700
+2026-02-09,Supplier Beta,Gadget Pro,134,23450
+2026-02-09,Supplier Beta,Premium Widget,65,7800
+2026-02-10,Supplier Alpha,Gadget Lite,197,10835
+2026-02-10,Supplier Alpha,Declining Product,117,7605
+2026-02-11,Vendor 1,Gadget Pro,145,25375
+2026-02-11,Supplier Alpha,Standard Widget,63,3150
+2026-02-11,Supplier Beta,Gadget Lite,61,3355
+2026-02-11,Vendor 5,Budget Widget,66,1188
+2026-02-11,Supplier Beta,Standard Widget,20,1000
+2026-02-11,Supplier Alpha,Standard Widget,175,8750
+2026-02-11,Supplier Alpha,Declining Product,93,6045
+2026-02-12,Vendor 6,Gadget Lite,164,9020
+2026-02-12,Supplier Alpha,Gadget Pro,158,27650
+2026-02-12,Supplier Beta,Low Stock Item,186,24180
+2026-02-12,Supplier Beta,Low Stock Item,69,8970
+2026-02-12,Supplier Alpha,Standard Widget,168,8400
+2026-02-13,Supplier Beta,Low Stock Item,140,18200
+2026-02-13,Supplier Alpha,Declining Product,113,7345
+2026-02-13,Supplier Beta,Low Stock Item,114,14820
+2026-02-14,Vendor 6,Declining Product,200,13000
+2026-02-14,Supplier Beta,Budget Widget,74,1332
+2026-02-14,Supplier Alpha,Budget Widget,127,2286
+2026-02-14,Supplier Alpha,Low Stock Item,48,6240
+2026-02-14,Supplier Alpha,Standard Widget,108,5400
+2026-02-14,Vendor 6,Premium Widget,86,10320
+2026-02-14,Supplier Alpha,Declining Product,120,7800
+2026-02-14,Supplier Alpha,Gadget Pro,115,20125
+2026-02-15,Vendor 10,Budget Widget,100,1800
+2026-02-15,Supplier Beta,Standard Widget,45,2250
+2026-02-15,Supplier Alpha,Gadget Pro,128,22400
+2026-02-15,Supplier Alpha,Gadget Lite,188,10340
+2026-02-15,Supplier Beta,Declining Product,20,1300
+2026-02-15,Supplier Alpha,Gadget Lite,194,10670
+2026-02-15,Vendor 1,Declining Product,37,2405
+2026-02-16,Supplier Beta,Budget Widget,154,2772
+2026-02-16,Vendor 12,Low Stock Item,193,25090
+2026-02-17,Supplier Alpha,Gadget Pro,137,23975
+2026-02-17,Supplier Alpha,Low Stock Item,174,22620
+2026-02-17,Vendor 10,Declining Product,174,11310
+2026-02-17,Supplier Alpha,Gadget Lite,176,9680
+2026-02-17,Vendor 4,Low Stock Item,70,9100
+2026-02-17,Vendor 9,Declining Product,129,8385
+2026-02-17,Supplier Alpha,Low Stock Item,122,15860
+2026-02-17,Supplier Alpha,Budget Widget,151,2718
+2026-02-18,Vendor 4,Low Stock Item,131,17030
+2026-02-18,Vendor 2,Declining Product,109,7085
+2026-02-19,Vendor 4,Budget Widget,29,522
+2026-02-19,Supplier Alpha,Declining Product,159,10335
+2026-02-19,Vendor 4,Gadget Pro,181,31675
+2026-02-20,Supplier Alpha,Declining Product,152,9880
+2026-02-20,Supplier Beta,Premium Widget,190,22800
+2026-02-20,Supplier Alpha,Budget Widget,65,1170
+2026-02-20,Supplier Beta,Premium Widget,158,18960
+2026-02-21,Supplier Alpha,Declining Product,189,12285
+2026-02-21,Supplier Alpha,Low Stock Item,42,5460
+2026-02-21,Vendor 8,Declining Product,132,8580
+2026-02-21,Supplier Beta,Gadget Lite,157,8635
+2026-02-21,Vendor 8,Gadget Pro,78,13650
+2026-02-22,Supplier Alpha,Low Stock Item,37,4810
+2026-02-22,Vendor 1,Budget Widget,186,3348
+2026-02-22,Supplier Beta,Declining Product,148,9620
+2026-02-22,Vendor 10,Low Stock Item,78,10140
+2026-02-22,Supplier Beta,Standard Widget,197,9850
+2026-02-22,Supplier Alpha,Gadget Pro,128,22400
+2026-02-22,Supplier Beta,Standard Widget,119,5950
+2026-02-23,Supplier Alpha,Standard Widget,58,2900
+2026-02-23,Supplier Beta,Declining Product,68,4420
+2026-02-24,Supplier Beta,Gadget Lite,175,9625
+2026-02-24,Supplier Beta,Gadget Lite,120,6600
+2026-02-24,Supplier Alpha,Low Stock Item,97,12610
+2026-02-24,Supplier Alpha,Budget Widget,140,2520
+2026-02-24,Supplier Beta,Declining Product,72,4680
+2026-02-25,Supplier Beta,Gadget Lite,57,3135
+2026-02-25,Vendor 11,Gadget Pro,153,26775
+2026-02-25,Supplier Alpha,Declining Product,55,3575
+2026-02-25,Supplier Beta,Gadget Lite,78,4290
+2026-02-25,Supplier Beta,Low Stock Item,22,2860
+2026-02-25,Supplier Beta,Declining Product,195,12675
+2026-02-26,Supplier Beta,Gadget Pro,100,17500
+2026-02-26,Supplier Beta,Premium Widget,88,10560
+2026-02-26,Supplier Beta,Low Stock Item,139,18070
+2026-02-26,Vendor 6,Gadget Pro,175,30625
+2026-02-26,Supplier Beta,Standard Widget,93,4650
+2026-02-26,Vendor 6,Standard Widget,117,5850
+2026-02-26,Vendor 10,Low Stock Item,120,15600
+2026-02-27,Vendor 8,Declining Product,166,10790
+2026-02-27,Supplier Beta,Declining Product,56,3640
+2026-02-28,Supplier Beta,Budget Widget,116,2088
+2026-02-28,Vendor 2,Gadget Lite,102,5610
+2026-02-28,Vendor 4,Premium Widget,22,2640
+2026-03-01,Supplier Alpha,Declining Product,113,7345
+2026-03-01,Vendor 14,Gadget Lite,141,7755
+2026-03-01,Vendor 13,Gadget Lite,176,9680
+2026-03-02,Vendor 12,Declining Product,197,12805
+2026-03-02,Supplier Alpha,Budget Widget,47,846
+2026-03-02,Supplier Alpha,Gadget Lite,161,8855
+2026-03-02,Supplier Alpha,Premium Widget,131,15720
+2026-03-02,Supplier Alpha,Standard Widget,29,1450
+2026-03-03,Supplier Alpha,Premium Widget,26,3120
+2026-03-03,Supplier Alpha,Budget Widget,113,2034
+2026-03-03,Supplier Beta,Low Stock Item,76,9880
+2026-03-03,Vendor 11,Standard Widget,56,2800
+2026-03-03,Vendor 5,Budget Widget,111,1998
+2026-03-04,Supplier Alpha,Standard Widget,52,2600
+2026-03-04,Supplier Beta,Budget Widget,41,738
+2026-03-04,Supplier Beta,Gadget Pro,41,7175
+2026-03-04,Vendor 7,Low Stock Item,173,22490
+2026-03-04,Supplier Alpha,Standard Widget,161,8050
+2026-03-05,Supplier Beta,Low Stock Item,30,3900
+2026-03-05,Supplier Beta,Gadget Pro,188,32900
+2026-03-06,Vendor 10,Budget Widget,36,648
+2026-03-06,Supplier Beta,Gadget Lite,73,4015
+2026-03-06,Supplier Alpha,Gadget Pro,36,6300
+2026-03-06,Vendor 9,Gadget Lite,144,7920
+2026-03-06,Supplier Alpha,Premium Widget,136,16320
+2026-03-06,Vendor 1,Gadget Pro,116,20300
+2026-03-06,Supplier Alpha,Gadget Lite,155,8525
+2026-03-07,Supplier Beta,Standard Widget,159,7950
+2026-03-07,Supplier Beta,Standard Widget,149,7450
+2026-03-07,Supplier Alpha,Premium Widget,184,22080
+2026-03-08,Supplier Alpha,Budget Widget,56,1008
+2026-03-08,Supplier Beta,Premium Widget,102,12240
+2026-03-08,Supplier Alpha,Low Stock Item,68,8840
+2026-03-09,Supplier Alpha,Standard Widget,187,9350
+2026-03-09,Supplier Beta,Gadget Pro,159,27825
+2026-03-09,Supplier Beta,Budget Widget,87,1566
+2026-03-09,Supplier Alpha,Low Stock Item,89,11570
+2026-03-09,Supplier Alpha,Low Stock Item,81,10530
+2026-03-09,Supplier Beta,Budget Widget,98,1764
+2026-03-09,Supplier Alpha,Declining Product,184,11960
+2026-03-10,Vendor 11,Budget Widget,84,1512
+2026-03-10,Supplier Beta,Low Stock Item,140,18200
+2026-03-10,Supplier Beta,Declining Product,59,3835
+2026-03-10,Supplier Alpha,Gadget Lite,115,6325
+2026-03-10,Supplier Alpha,Low Stock Item,186,24180
+2026-03-10,Vendor 5,Gadget Pro,120,21000
+2026-03-10,Vendor 6,Premium Widget,44,5280
+2026-03-10,Supplier Alpha,Budget Widget,33,594
+2026-03-11,Supplier Beta,Gadget Lite,116,6380
+2026-03-11,Supplier Alpha,Gadget Lite,112,6160
+2026-03-11,Supplier Beta,Low Stock Item,25,3250
+2026-03-11,Vendor 14,Budget Widget,184,3312
+2026-03-11,Supplier Beta,Declining Product,104,6760
+2026-03-12,Supplier Alpha,Gadget Lite,141,7755
+2026-03-12,Supplier Alpha,Low Stock Item,44,5720
+2026-03-12,Vendor 5,Declining Product,88,5720
+2026-03-12,Supplier Alpha,Low Stock Item,171,22230
+2026-03-12,Supplier Alpha,Budget Widget,59,1062
+2026-03-13,Supplier Beta,Gadget Lite,24,1320
+2026-03-13,Supplier Alpha,Standard Widget,136,6800
+2026-03-14,Vendor 5,Declining Product,38,2470
+2026-03-14,Vendor 13,Gadget Lite,98,5390
+2026-03-14,Supplier Alpha,Standard Widget,40,2000
+2026-03-14,Supplier Alpha,Standard Widget,131,6550
+2026-03-14,Supplier Alpha,Standard Widget,144,7200
+2026-03-15,Supplier Alpha,Gadget Lite,76,4180
+2026-03-15,Vendor 13,Standard Widget,21,1050
+2026-03-15,Supplier Alpha,Premium Widget,87,10440
+2026-03-15,Supplier Alpha,Standard Widget,145,7250
+2026-03-15,Supplier Alpha,Standard Widget,99,4950
+2026-03-16,Supplier Alpha,Gadget Pro,66,11550
+2026-03-16,Supplier Beta,Gadget Pro,59,10325
+2026-03-16,Vendor 7,Budget Widget,123,2214
+2026-03-16,Vendor 9,Declining Product,125,8125
+2026-03-16,Vendor 1,Gadget Pro,188,32900
+2026-03-17,Vendor 1,Premium Widget,32,3840
+2026-03-17,Vendor 9,Low Stock Item,188,24440
+2026-03-17,Supplier Alpha,Low Stock Item,49,6370
+2026-03-17,Supplier Beta,Gadget Lite,33,1815
+2026-03-18,Vendor 5,Standard Widget,195,9750
+2026-03-18,Supplier Beta,Declining Product,158,10270
+2026-03-19,Supplier Alpha,Declining Product,136,8840
+2026-03-19,Supplier Beta,Low Stock Item,47,6110
+2026-03-20,Supplier Alpha,Budget Widget,191,3438
+2026-03-20,Vendor 11,Gadget Lite,49,2695
+2026-03-20,Vendor 5,Declining Product,124,8060
+2026-03-20,Supplier Beta,Budget Widget,48,864
+2026-03-20,Supplier Alpha,Premium Widget,124,14880
+2026-03-20,Vendor 7,Gadget Lite,56,3080
+2026-03-20,Vendor 7,Declining Product,157,10205
+2026-03-20,Supplier Beta,Gadget Lite,100,5500
+2026-03-21,Supplier Beta,Standard Widget,147,7350
+2026-03-21,Vendor 8,Declining Product,130,8450
+2026-03-21,Supplier Beta,Low Stock Item,173,22490
+2026-03-21,Supplier Alpha,Budget Widget,92,1656
+2026-03-21,Vendor 13,Standard Widget,79,3950
+2026-03-21,Vendor 9,Premium Widget,129,15480
+2026-03-21,Supplier Beta,Declining Product,88,5720
+2026-03-22,Vendor 10,Gadget Pro,47,8225
+2026-03-22,Supplier Beta,Premium Widget,99,11880
+2026-03-22,Supplier Alpha,Low Stock Item,152,19760
+2026-03-22,Supplier Alpha,Gadget Pro,105,18375
+2026-03-22,Supplier Alpha,Gadget Pro,115,20125
+2026-03-22,Vendor 4,Premium Widget,188,22560
+2026-03-23,Supplier Alpha,Premium Widget,193,23160
+2026-03-23,Vendor 6,Declining Product,49,3185
+2026-03-23,Vendor 8,Premium Widget,61,7320
+2026-03-23,Supplier Beta,Declining Product,68,4420
+2026-03-24,Supplier Alpha,Declining Product,63,4095
+2026-03-24,Vendor 4,Gadget Lite,178,9790
+2026-03-24,Vendor 12,Premium Widget,143,17160
+2026-03-24,Vendor 2,Low Stock Item,198,25740
+2026-03-25,Supplier Alpha,Standard Widget,108,5400
+2026-03-25,Supplier Beta,Gadget Pro,153,26775
+2026-03-25,Vendor 14,Budget Widget,189,3402
+2026-03-25,Supplier Alpha,Gadget Pro,200,35000
+2026-03-25,Vendor 12,Gadget Pro,194,33950
+2026-03-25,Supplier Alpha,Low Stock Item,134,17420
+2026-03-25,Supplier Beta,Premium Widget,135,16200
+2026-03-25,Supplier Beta,Standard Widget,167,8350
+2026-03-26,Supplier Beta,Budget Widget,124,2232
+2026-03-26,Supplier Beta,Low Stock Item,166,21580
+2026-03-26,Vendor 1,Declining Product,51,3315
+2026-03-26,Supplier Alpha,Gadget Pro,94,16450
+2026-03-26,Supplier Beta,Premium Widget,42,5040
+2026-03-26,Supplier Beta,Budget Widget,105,1890
+2026-03-26,Supplier Alpha,Budget Widget,46,828
+2026-03-27,Vendor 9,Declining Product,80,5200
+2026-03-27,Supplier Beta,Premium Widget,37,4440
+2026-03-27,Vendor 14,Gadget Lite,42,2310
+2026-03-27,Supplier Alpha,Gadget Lite,186,10230
+2026-03-28,Supplier Alpha,Budget Widget,98,1764
+2026-03-28,Supplier Alpha,Declining Product,196,12740
+2026-03-28,Vendor 14,Standard Widget,25,1250
+2026-03-28,Supplier Beta,Declining Product,176,11440
+2026-03-28,Supplier Beta,Gadget Pro,47,8225
+2026-03-28,Supplier Beta,Premium Widget,109,13080
+2026-03-28,Vendor 4,Standard Widget,141,7050
+2026-03-29,Vendor 9,Budget Widget,21,378
+2026-03-29,Vendor 2,Standard Widget,88,4400
+2026-03-29,Supplier Beta,Low Stock Item,37,4810
+2026-03-29,Supplier Alpha,Declining Product,48,3120
+2026-03-29,Supplier Beta,Gadget Pro,46,8050
+2026-03-30,Vendor 6,Premium Widget,99,11880
+2026-03-30,Supplier Alpha,Budget Widget,169,3042
+2026-03-30,Vendor 11,Budget Widget,103,1854
+2026-03-30,Supplier Alpha,Low Stock Item,144,18720
+2026-03-30,Vendor 7,Low Stock Item,29,3770
+2026-03-30,Vendor 8,Standard Widget,172,8600
+2026-03-30,Supplier Alpha,Gadget Lite,152,8360
+2026-03-31,Supplier Alpha,Low Stock Item,152,19760
+2026-03-31,Vendor 7,Gadget Lite,158,8690
+2026-04-01,Supplier Beta,Gadget Pro,63,11025
+2026-04-01,Vendor 11,Premium Widget,172,20640
+2026-04-01,Supplier Beta,Premium Widget,99,11880
+2026-04-01,Vendor 7,Budget Widget,84,1512
+2026-04-02,Supplier Alpha,Gadget Pro,21,3675
+2026-04-02,Supplier Alpha,Budget Widget,111,1998
+2026-04-02,Vendor 2,Gadget Pro,176,30800
+2026-04-02,Supplier Alpha,Gadget Lite,151,8305
+2026-04-03,Supplier Alpha,Premium Widget,65,7800
+2026-04-03,Supplier Beta,Standard Widget,55,2750
+2026-04-03,Vendor 8,Standard Widget,62,3100
+2026-04-03,Supplier Beta,Standard Widget,129,6450
+2026-04-03,Supplier Beta,Premium Widget,87,10440
+2026-04-04,Supplier Beta,Premium Widget,104,12480
+2026-04-04,Supplier Beta,Declining Product,79,5135
+2026-04-04,Supplier Beta,Gadget Lite,56,3080
+2026-04-04,Supplier Beta,Budget Widget,170,3060
+2026-04-04,Supplier Beta,Gadget Lite,73,4015
+2026-04-04,Vendor 10,Declining Product,68,4420
+2026-04-04,Vendor 14,Budget Widget,44,792
+2026-04-04,Supplier Beta,Gadget Lite,177,9735
+2026-04-05,Supplier Alpha,Declining Product,35,2275
+2026-04-05,Supplier Alpha,Gadget Pro,26,4550
+2026-04-05,Supplier Beta,Standard Widget,139,6950
+2026-04-05,Supplier Alpha,Gadget Pro,100,17500
+2026-04-05,Supplier Alpha,Premium Widget,119,14280
+2026-04-05,Supplier Alpha,Low Stock Item,177,23010
+2026-04-06,Supplier Alpha,Declining Product,113,7345
+2026-04-06,Supplier Alpha,Gadget Pro,60,10500
+2026-04-06,Supplier Beta,Gadget Lite,64,3520
+2026-04-06,Supplier Alpha,Declining Product,52,3380
+2026-04-06,Supplier Alpha,Standard Widget,68,3400
+2026-04-06,Supplier Alpha,Budget Widget,138,2484
+2026-04-06,Supplier Alpha,Low Stock Item,185,24050
+2026-04-06,Supplier Beta,Budget Widget,163,2934
+2026-04-07,Supplier Beta,Premium Widget,184,22080
+2026-04-07,Supplier Beta,Budget Widget,65,1170
+2026-04-07,Supplier Beta,Declining Product,110,7150
+2026-04-07,Supplier Beta,Premium Widget,61,7320
+2026-04-07,Supplier Beta,Declining Product,71,4615
+2026-04-07,Supplier Beta,Declining Product,124,8060
+2026-04-08,Supplier Beta,Premium Widget,73,8760
+2026-04-08,Supplier Alpha,Premium Widget,62,7440
+2026-04-08,Supplier Alpha,Standard Widget,77,3850
+2026-04-08,Supplier Beta,Budget Widget,73,1314
+2026-04-08,Supplier Beta,Standard Widget,38,1900
+2026-04-09,Supplier Alpha,Gadget Lite,105,5775
+2026-04-09,Supplier Beta,Gadget Lite,136,7480
+2026-04-09,Supplier Alpha,Low Stock Item,128,16640
+2026-04-09,Vendor 4,Low Stock Item,197,25610
+2026-04-10,Supplier Beta,Gadget Lite,93,5115
+2026-04-10,Supplier Alpha,Budget Widget,196,3528
+2026-04-10,Supplier Beta,Standard Widget,36,1800
+2026-04-11,Supplier Alpha,Gadget Pro,93,16275
+2026-04-11,Vendor 7,Gadget Lite,25,1375
+2026-04-11,Vendor 7,Low Stock Item,166,21580
+2026-04-11,Supplier Alpha,Gadget Pro,85,14875
+2026-04-12,Supplier Beta,Declining Product,102,6630
+2026-04-12,Supplier Alpha,Premium Widget,159,19080
+2026-04-12,Supplier Alpha,Premium Widget,74,8880
+2026-04-12,Vendor 3,Standard Widget,46,2300
+2026-04-12,Vendor 4,Low Stock Item,106,13780
+2026-04-13,Supplier Alpha,Gadget Lite,126,6930
+2026-04-13,Supplier Alpha,Standard Widget,68,3400
+2026-04-13,Supplier Beta,Budget Widget,45,810
+2026-04-13,Supplier Alpha,Standard Widget,124,6200
+2026-04-14,Supplier Alpha,Declining Product,52,3380
+2026-04-14,Supplier Beta,Budget Widget,71,1278
+2026-04-14,Vendor 2,Budget Widget,185,3330
+2026-04-14,Supplier Beta,Premium Widget,178,21360
+2026-04-14,Supplier Beta,Declining Product,160,10400
+2026-04-14,Supplier Alpha,Gadget Lite,40,2200
+2026-04-14,Supplier Beta,Gadget Lite,175,9625
+2026-04-14,Supplier Alpha,Declining Product,157,10205
+2026-04-15,Supplier Alpha,Gadget Pro,195,34125
+2026-04-15,Supplier Beta,Budget Widget,88,1584
+2026-04-15,Supplier Alpha,Standard Widget,69,3450
+2026-04-15,Vendor 14,Gadget Pro,164,28700
+2026-04-16,Supplier Alpha,Gadget Lite,107,5885
+2026-04-16,Supplier Beta,Standard Widget,65,3250
+2026-04-16,Supplier Alpha,Budget Widget,95,1710
+2026-04-16,Supplier Alpha,Declining Product,163,10595
+2026-04-16,Vendor 7,Gadget Pro,61,10675
+2026-04-16,Supplier Alpha,Standard Widget,75,3750
+2026-04-16,Supplier Beta,Premium Widget,193,23160
+2026-04-17,Supplier Beta,Low Stock Item,175,22750
+2026-04-17,Vendor 10,Gadget Pro,115,20125
+2026-04-17,Supplier Beta,Declining Product,165,10725
+2026-04-17,Vendor 10,Low Stock Item,175,22750
+2026-04-17,Supplier Alpha,Low Stock Item,185,24050
+2026-04-17,Supplier Beta,Low Stock Item,194,25220
+2026-04-18,Supplier Alpha,Standard Widget,80,4000
+2026-04-18,Vendor 2,Low Stock Item,198,25740
+2026-04-18,Supplier Alpha,Standard Widget,94,4700
+2026-04-18,Supplier Beta,Premium Widget,146,17520
+2026-04-18,Vendor 6,Low Stock Item,121,15730
+2026-04-19,Vendor 8,Standard Widget,105,5250
+2026-04-19,Supplier Alpha,Declining Product,28,1820
+2026-04-19,Supplier Beta,Declining Product,131,8515
+2026-04-20,Supplier Beta,Gadget Lite,158,8690
+2026-04-20,Vendor 5,Standard Widget,37,1850
+2026-04-20,Supplier Alpha,Premium Widget,35,4200
+2026-04-20,Vendor 12,Declining Product,110,7150
+2026-04-20,Vendor 13,Premium Widget,98,11760
+2026-04-20,Vendor 5,Gadget Lite,138,7590
+2026-04-21,Vendor 7,Gadget Pro,113,19775
+2026-04-21,Supplier Beta,Gadget Pro,71,12425
+2026-04-21,Supplier Beta,Budget Widget,132,2376
+2026-04-22,Supplier Alpha,Standard Widget,194,9700
+2026-04-22,Supplier Alpha,Declining Product,104,6760
+2026-04-22,Supplier Alpha,Low Stock Item,181,23530
+2026-04-22,Supplier Beta,Low Stock Item,118,15340
+2026-04-22,Supplier Alpha,Budget Widget,153,2754
+2026-04-23,Supplier Alpha,Standard Widget,45,2250
+2026-04-23,Supplier Beta,Gadget Lite,105,5775
+2026-04-23,Supplier Alpha,Standard Widget,108,5400
+2026-04-23,Vendor 9,Declining Product,31,2015
+2026-04-24,Supplier Alpha,Gadget Lite,179,9845
+2026-04-24,Vendor 2,Low Stock Item,31,4030
+2026-04-24,Supplier Alpha,Gadget Pro,167,29225
+2026-04-24,Vendor 12,Gadget Pro,178,31150
+2026-04-24,Supplier Beta,Premium Widget,97,11640
+2026-04-25,Supplier Alpha,Budget Widget,35,630
+2026-04-25,Supplier Alpha,Gadget Pro,40,7000
+2026-04-25,Vendor 11,Budget Widget,142,2556
+2026-04-25,Supplier Alpha,Low Stock Item,196,25480
+2026-04-25,Supplier Alpha,Gadget Lite,126,6930
+2026-04-25,Supplier Alpha,Standard Widget,125,6250
+2026-04-25,Supplier Alpha,Budget Widget,197,3546
+2026-04-26,Supplier Alpha,Budget Widget,107,1926
+2026-04-26,Supplier Beta,Premium Widget,94,11280
+2026-04-26,Supplier Alpha,Low Stock Item,41,5330
+2026-04-26,Supplier Beta,Standard Widget,114,5700
+2026-04-27,Supplier Beta,Low Stock Item,186,24180
+2026-04-27,Supplier Alpha,Declining Product,130,8450
+2026-04-27,Supplier Alpha,Premium Widget,165,19800
+2026-04-27,Supplier Alpha,Standard Widget,59,2950
+2026-04-27,Supplier Beta,Declining Product,51,3315
+2026-04-27,Vendor 3,Gadget Lite,157,8635
+2026-04-27,Supplier Beta,Premium Widget,61,7320
+2026-04-28,Supplier Beta,Low Stock Item,200,26000
+2026-04-28,Supplier Beta,Gadget Pro,83,14525
+2026-04-29,Vendor 2,Gadget Lite,195,10725
+2026-04-29,Supplier Alpha,Premium Widget,140,16800
+2026-04-29,Supplier Alpha,Standard Widget,50,2500
+2026-04-29,Supplier Alpha,Gadget Pro,109,19075
+2026-04-30,Supplier Beta,Premium Widget,156,18720
+2026-04-30,Supplier Beta,Gadget Pro,80,14000
+2026-04-30,Supplier Beta,Budget Widget,160,2880
+2026-05-01,Supplier Beta,Standard Widget,139,6950
+2026-05-01,Supplier Alpha,Premium Widget,195,23400
+2026-05-01,Supplier Alpha,Standard Widget,78,3900
+2026-05-01,Supplier Alpha,Gadget Lite,67,3685
+2026-05-01,Supplier Beta,Low Stock Item,126,16380
+2026-05-02,Supplier Beta,Premium Widget,68,8160
+2026-05-02,Vendor 4,Premium Widget,45,5400
+2026-05-02,Supplier Beta,Low Stock Item,78,10140
+2026-05-02,Supplier Beta,Standard Widget,56,2800
+2026-05-03,Supplier Alpha,Premium Widget,114,13680
+2026-05-03,Supplier Alpha,Premium Widget,171,20520
+2026-05-03,Vendor 10,Premium Widget,72,8640
+2026-05-03,Supplier Beta,Gadget Pro,165,28875
+2026-05-03,Supplier Alpha,Budget Widget,117,2106
+2026-05-04,Supplier Beta,Declining Product,147,9555
+2026-05-04,Supplier Beta,Budget Widget,127,2286
+2026-05-04,Vendor 12,Standard Widget,104,5200
+2026-05-04,Supplier Beta,Budget Widget,63,1134
+2026-05-04,Supplier Alpha,Standard Widget,55,2750
+2026-05-04,Vendor 11,Standard Widget,99,4950
+2026-05-04,Supplier Beta,Gadget Pro,67,11725
+2026-05-05,Vendor 8,Gadget Lite,176,9680
+2026-05-05,Supplier Beta,Low Stock Item,124,16120
+2026-05-05,Supplier Beta,Declining Product,100,6500
+2026-05-05,Supplier Alpha,Budget Widget,65,1170
+2026-05-05,Supplier Beta,Premium Widget,194,23280
+2026-05-05,Supplier Alpha,Declining Product,93,6045
+2026-05-05,Supplier Alpha,Gadget Pro,184,32200
+2026-05-05,Supplier Beta,Premium Widget,59,7080
+2026-05-06,Supplier Beta,Low Stock Item,72,9360
+2026-05-06,Supplier Beta,Budget Widget,23,414
+2026-05-06,Supplier Alpha,Standard Widget,147,7350
+2026-05-06,Supplier Alpha,Gadget Pro,88,15400
+2026-05-07,Supplier Alpha,Gadget Lite,24,1320
+2026-05-07,Supplier Alpha,Declining Product,174,11310
+2026-05-07,Supplier Alpha,Gadget Lite,125,6875
+2026-05-07,Vendor 3,Declining Product,59,3835
+2026-05-07,Vendor 3,Gadget Lite,123,6765
+2026-05-07,Vendor 5,Gadget Pro,100,17500
+2026-05-08,Supplier Beta,Declining Product,150,9750
+2026-05-08,Supplier Beta,Low Stock Item,130,16900
+2026-05-08,Supplier Beta,Declining Product,142,9230
+2026-05-08,Supplier Alpha,Declining Product,172,11180
+2026-05-09,Supplier Alpha,Premium Widget,42,5040
+2026-05-09,Supplier Alpha,Standard Widget,53,2650
+2026-05-09,Supplier Alpha,Gadget Lite,44,2420
+2026-05-09,Vendor 1,Standard Widget,184,9200
+2026-05-09,Vendor 11,Gadget Lite,143,7865
+2026-05-09,Supplier Beta,Premium Widget,95,11400
+2026-05-10,Supplier Alpha,Gadget Lite,158,8690
+2026-05-10,Supplier Beta,Gadget Pro,137,23975
+2026-05-10,Supplier Alpha,Declining Product,30,1950
+2026-05-10,Vendor 9,Budget Widget,169,3042
+2026-05-10,Vendor 12,Standard Widget,121,6050
+2026-05-10,Supplier Beta,Low Stock Item,67,8710
+2026-05-10,Vendor 9,Declining Product,164,10660
+2026-05-10,Supplier Beta,Premium Widget,98,11760
+2026-05-11,Supplier Alpha,Low Stock Item,117,15210
+2026-05-11,Supplier Beta,Low Stock Item,63,8190
+2026-05-11,Supplier Alpha,Standard Widget,106,5300
+2026-05-11,Vendor 8,Low Stock Item,173,22490
+2026-05-11,Supplier Beta,Gadget Lite,31,1705
+2026-05-11,Supplier Alpha,Standard Widget,34,1700
+2026-05-11,Vendor 13,Standard Widget,93,4650
+2026-05-11,Vendor 8,Gadget Pro,38,6650
+2026-05-12,Supplier Alpha,Declining Product,74,4810
+2026-05-12,Supplier Alpha,Standard Widget,155,7750
+2026-05-13,Vendor 6,Gadget Pro,166,29050
+2026-05-13,Vendor 12,Gadget Lite,44,2420
+2026-05-13,Supplier Alpha,Low Stock Item,180,23400
+2026-05-13,Supplier Alpha,Declining Product,59,3835
+2026-05-13,Supplier Alpha,Gadget Lite,72,3960
+2026-05-13,Supplier Alpha,Standard Widget,77,3850
+2026-05-13,Supplier Beta,Premium Widget,47,5640
+2026-05-14,Supplier Alpha,Gadget Pro,178,31150
+2026-05-14,Supplier Beta,Gadget Lite,82,4510
+2026-05-14,Supplier Beta,Low Stock Item,60,7800
+2026-05-14,Supplier Beta,Declining Product,132,8580
+2026-05-14,Vendor 14,Standard Widget,82,4100
+2026-05-14,Supplier Beta,Standard Widget,53,2650
+2026-05-14,Supplier Beta,Gadget Lite,124,6820
+2026-05-15,Supplier Beta,Gadget Pro,86,15050
+2026-05-15,Vendor 7,Budget Widget,137,2466
+2026-05-15,Supplier Alpha,Declining Product,59,3835
+2026-05-15,Vendor 7,Low Stock Item,36,4680
+2026-05-16,Supplier Beta,Gadget Lite,164,9020
+2026-05-16,Supplier Alpha,Low Stock Item,149,19370
+2026-05-16,Vendor 3,Premium Widget,64,7680
+2026-05-16,Vendor 9,Premium Widget,36,4320
+2026-05-17,Supplier Alpha,Low Stock Item,89,11570
+2026-05-17,Supplier Alpha,Low Stock Item,50,6500
+2026-05-17,Vendor 2,Low Stock Item,200,26000
+2026-05-18,Supplier Alpha,Gadget Pro,182,31850
+2026-05-18,Supplier Beta,Standard Widget,69,3450
+2026-05-18,Supplier Beta,Premium Widget,136,16320
+2026-05-18,Vendor 5,Low Stock Item,106,13780
+2026-05-18,Supplier Beta,Budget Widget,81,1458
+2026-05-18,Vendor 3,Declining Product,44,2860
+2026-05-19,Vendor 3,Low Stock Item,162,21060
+2026-05-19,Vendor 1,Standard Widget,200,10000
+2026-05-19,Supplier Beta,Gadget Lite,48,2640
+2026-05-19,Vendor 7,Premium Widget,192,23040
+2026-05-19,Supplier Alpha,Gadget Pro,124,21700
+2026-05-19,Vendor 5,Gadget Lite,34,1870
+2026-05-19,Supplier Beta,Gadget Lite,49,2695
+2026-05-19,Vendor 11,Gadget Pro,129,22575
+2026-05-20,Supplier Alpha,Standard Widget,145,7250
+2026-05-20,Supplier Beta,Declining Product,190,12350
+2026-05-20,Supplier Alpha,Standard Widget,141,7050
+2026-05-21,Vendor 3,Declining Product,105,6825
+2026-05-21,Supplier Alpha,Gadget Pro,103,18025
+2026-05-21,Supplier Alpha,Low Stock Item,109,14170
+2026-05-21,Supplier Beta,Standard Widget,100,5000
+2026-05-21,Supplier Alpha,Gadget Lite,50,2750
+2026-05-22,Supplier Beta,Gadget Pro,131,22925
+2026-05-22,Supplier Beta,Gadget Lite,142,7810
+2026-05-22,Supplier Alpha,Standard Widget,195,9750
+2026-05-22,Vendor 1,Gadget Lite,45,2475
+2026-05-22,Vendor 3,Gadget Lite,174,9570
+2026-05-23,Supplier Beta,Low Stock Item,192,24960
+2026-05-23,Vendor 11,Premium Widget,45,5400
+2026-05-23,Supplier Alpha,Premium Widget,33,3960
+2026-05-23,Supplier Beta,Premium Widget,53,6360
+2026-05-23,Supplier Beta,Standard Widget,106,5300
+2026-05-23,Supplier Beta,Low Stock Item,61,7930
+2026-05-23,Supplier Alpha,Premium Widget,89,10680
+2026-05-24,Supplier Alpha,Gadget Pro,82,14350
+2026-05-24,Supplier Alpha,Gadget Lite,40,2200
+2026-05-25,Supplier Beta,Declining Product,32,2080
+2026-05-25,Supplier Alpha,Declining Product,163,10595
+2026-05-25,Supplier Beta,Low Stock Item,182,23660
+2026-05-25,Supplier Beta,Gadget Lite,139,7645
+2026-05-25,Supplier Beta,Premium Widget,159,19080
+2026-05-26,Vendor 4,Gadget Lite,156,8580
+2026-05-26,Supplier Beta,Gadget Pro,133,23275
+2026-05-27,Supplier Alpha,Premium Widget,185,22200
+2026-05-27,Vendor 12,Gadget Pro,85,14875
+2026-05-27,Supplier Alpha,Gadget Pro,162,28350
+2026-05-27,Supplier Alpha,Premium Widget,75,9000
+2026-05-27,Supplier Alpha,Gadget Pro,96,16800
+2026-05-27,Vendor 3,Budget Widget,181,3258
+2026-05-27,Vendor 2,Gadget Lite,97,5335
+2026-05-28,Supplier Beta,Gadget Lite,95,5225
+2026-05-28,Supplier Beta,Low Stock Item,180,23400
+2026-05-28,Supplier Alpha,Gadget Lite,103,5665
+2026-05-28,Supplier Alpha,Budget Widget,168,3024
+2026-05-28,Vendor 13,Premium Widget,25,3000
+2026-05-28,Vendor 10,Declining Product,127,8255
+2026-05-28,Supplier Alpha,Standard Widget,90,4500
+2026-05-29,Supplier Beta,Premium Widget,178,21360
+2026-05-29,Supplier Alpha,Standard Widget,181,9050
+2026-05-29,Supplier Alpha,Declining Product,119,7735
+2026-05-29,Vendor 2,Declining Product,21,1365
+2026-05-30,Vendor 2,Declining Product,195,12675
+2026-05-30,Vendor 9,Gadget Pro,88,15400
+2026-05-30,Vendor 5,Gadget Lite,196,10780
+2026-05-30,Supplier Alpha,Gadget Lite,184,10120
+2026-05-30,Vendor 10,Low Stock Item,145,18850
+2026-05-31,Supplier Alpha,Low Stock Item,47,6110
+2026-05-31,Supplier Beta,Low Stock Item,55,7150
+2026-05-31,Supplier Beta,Budget Widget,85,1530
+2026-06-01,Supplier Beta,Standard Widget,99,4950
+2026-06-01,Supplier Beta,Standard Widget,41,2050
+2026-06-02,Supplier Beta,Gadget Lite,70,3850
+2026-06-02,Supplier Beta,Standard Widget,26,1300
+2026-06-02,Vendor 10,Premium Widget,124,14880
+2026-06-02,Supplier Beta,Low Stock Item,193,25090
+2026-06-02,Vendor 2,Declining Product,199,12935
+2026-06-02,Supplier Alpha,Premium Widget,179,21480
+2026-06-02,Supplier Beta,Premium Widget,198,23760
+2026-06-02,Vendor 7,Gadget Lite,154,8470
+2026-06-03,Supplier Beta,Standard Widget,45,2250
+2026-06-03,Supplier Beta,Gadget Lite,162,8910
+2026-06-03,Supplier Beta,Low Stock Item,84,10920
+2026-06-03,Vendor 13,Gadget Pro,33,5775
+2026-06-03,Vendor 5,Declining Product,30,1950
+2026-06-04,Vendor 6,Gadget Pro,136,23800
+2026-06-04,Supplier Alpha,Gadget Lite,126,6930
+2026-06-04,Supplier Beta,Declining Product,197,12805
+2026-06-04,Supplier Beta,Budget Widget,121,2178
+2026-06-04,Supplier Beta,Premium Widget,105,12600
+2026-06-04,Supplier Alpha,Premium Widget,50,6000
+2026-06-04,Supplier Beta,Premium Widget,46,5520
+2026-06-04,Supplier Alpha,Gadget Pro,106,18550
+2026-06-05,Supplier Alpha,Gadget Lite,114,6270
+2026-06-05,Supplier Beta,Gadget Pro,170,29750
+2026-06-05,Vendor 13,Declining Product,66,4290
+2026-06-05,Supplier Beta,Standard Widget,108,5400
+2026-06-05,Supplier Alpha,Budget Widget,27,486
+2026-06-05,Vendor 14,Standard Widget,68,3400
+2026-06-05,Supplier Beta,Low Stock Item,32,4160
+2026-06-06,Supplier Alpha,Low Stock Item,130,16900
+2026-06-06,Supplier Alpha,Gadget Lite,22,1210
+2026-06-06,Vendor 4,Budget Widget,57,1026
+2026-06-06,Supplier Beta,Low Stock Item,115,14950
+2026-06-06,Supplier Alpha,Gadget Pro,196,34300
+2026-06-06,Supplier Alpha,Standard Widget,169,8450
+2026-06-06,Supplier Alpha,Premium Widget,164,19680
+2026-06-06,Supplier Alpha,Premium Widget,83,9960
+2026-06-07,Vendor 14,Declining Product,108,7020
+2026-06-07,Supplier Alpha,Premium Widget,97,11640
+2026-06-07,Supplier Beta,Declining Product,105,6825
+2026-06-07,Vendor 3,Gadget Lite,110,6050
+2026-06-07,Supplier Beta,Premium Widget,192,23040
+2026-06-08,Vendor 10,Premium Widget,176,21120
+2026-06-08,Supplier Alpha,Standard Widget,194,9700
+2026-06-08,Vendor 12,Low Stock Item,164,21320
+2026-06-08,Supplier Beta,Standard Widget,121,6050
+2026-06-08,Supplier Alpha,Gadget Lite,172,9460
+2026-06-08,Vendor 2,Low Stock Item,69,8970
+2026-06-08,Vendor 7,Budget Widget,155,2790
+2026-06-09,Supplier Beta,Standard Widget,124,6200
+2026-06-09,Supplier Beta,Premium Widget,125,15000
+2026-06-09,Vendor 7,Declining Product,191,12415
+2026-06-09,Vendor 2,Declining Product,137,8905
+2026-06-09,Supplier Beta,Gadget Pro,194,33950
+2026-06-09,Supplier Beta,Gadget Pro,66,11550
+2026-06-09,Supplier Alpha,Budget Widget,89,1602
+2026-06-09,Vendor 11,Low Stock Item,138,17940
+2026-06-10,Supplier Alpha,Gadget Pro,182,31850
+2026-06-10,Supplier Alpha,Budget Widget,103,1854
+2026-06-10,Vendor 13,Declining Product,140,9100
+2026-06-10,Supplier Alpha,Gadget Lite,156,8580
+2026-06-10,Vendor 8,Budget Widget,106,1908
+2026-06-10,Supplier Beta,Standard Widget,87,4350
+2026-06-11,Vendor 9,Premium Widget,159,19080
+2026-06-11,Vendor 13,Gadget Lite,157,8635
+2026-06-11,Supplier Beta,Declining Product,152,9880
+2026-06-11,Vendor 12,Budget Widget,26,468
+2026-06-12,Supplier Alpha,Low Stock Item,71,9230
+2026-06-12,Supplier Alpha,Declining Product,91,5915
+2026-06-13,Vendor 5,Standard Widget,25,1250
+2026-06-13,Supplier Beta,Gadget Lite,179,9845
+2026-06-13,Vendor 13,Low Stock Item,99,12870
+2026-06-13,Supplier Alpha,Low Stock Item,189,24570
+2026-06-13,Vendor 2,Budget Widget,24,432
+2026-06-13,Supplier Alpha,Budget Widget,141,2538
+2026-06-13,Supplier Alpha,Gadget Lite,111,6105
+2026-06-13,Vendor 13,Standard Widget,75,3750
+2026-06-14,Supplier Beta,Standard Widget,79,3950
+2026-06-14,Supplier Alpha,Standard Widget,98,4900
+2026-06-14,Supplier Beta,Budget Widget,121,2178
+2026-06-14,Supplier Beta,Gadget Lite,83,4565
+2026-06-14,Vendor 3,Gadget Lite,36,1980
+2026-06-15,Vendor 1,Gadget Lite,172,9460
+2026-06-15,Supplier Beta,Low Stock Item,127,16510
+2026-06-15,Supplier Beta,Gadget Lite,190,10450
+2026-06-15,Supplier Beta,Low Stock Item,20,2600
+2026-06-15,Supplier Alpha,Gadget Pro,166,29050
+2026-06-15,Supplier Beta,Declining Product,134,8710
+2026-06-15,Supplier Beta,Premium Widget,172,20640
+2026-06-16,Supplier Alpha,Gadget Lite,30,1650
+2026-06-16,Supplier Beta,Declining Product,61,3965
+2026-06-16,Supplier Beta,Standard Widget,37,1850
+2026-06-16,Supplier Alpha,Standard Widget,154,7700
+2026-06-16,Supplier Beta,Gadget Lite,171,9405
+2026-06-16,Vendor 6,Budget Widget,25,450
+2026-06-17,Vendor 13,Budget Widget,96,1728
+2026-06-17,Supplier Beta,Declining Product,117,7605
+2026-06-18,Supplier Beta,Gadget Pro,134,23450
+2026-06-18,Vendor 8,Budget Widget,131,2358
+2026-06-18,Supplier Alpha,Premium Widget,61,7320
+2026-06-18,Supplier Beta,Low Stock Item,165,21450
+2026-06-18,Supplier Alpha,Low Stock Item,199,25870
+2026-06-18,Supplier Alpha,Declining Product,27,1755
+2026-06-18,Supplier Alpha,Gadget Pro,142,24850
+2026-06-19,Supplier Alpha,Gadget Pro,136,23800
+2026-06-19,Supplier Alpha,Standard Widget,91,4550
+2026-06-19,Supplier Alpha,Gadget Lite,56,3080
+2026-06-19,Supplier Beta,Declining Product,113,7345
+2026-06-19,Supplier Beta,Low Stock Item,89,11570
+2026-06-19,Vendor 7,Gadget Lite,159,8745
+2026-06-19,Supplier Alpha,Budget Widget,49,882
+2026-06-20,Supplier Beta,Standard Widget,127,6350
+2026-06-20,Supplier Alpha,Declining Product,132,8580
+2026-06-20,Supplier Beta,Declining Product,108,7020
+2026-06-20,Supplier Beta,Low Stock Item,115,14950
+2026-06-20,Supplier Beta,Budget Widget,42,756
+2026-06-20,Vendor 10,Standard Widget,90,4500
+2026-06-20,Supplier Alpha,Budget Widget,118,2124
+2026-06-20,Supplier Alpha,Gadget Lite,187,10285
+2026-06-21,Supplier Beta,Premium Widget,122,14640
+2026-06-21,Supplier Alpha,Gadget Pro,153,26775
+2026-06-21,Supplier Alpha,Budget Widget,47,846
+2026-06-21,Supplier Beta,Declining Product,155,10075
+2026-06-21,Supplier Beta,Gadget Pro,37,6475
+2026-06-21,Supplier Beta,Gadget Pro,144,25200
+2026-06-22,Supplier Beta,Gadget Lite,70,3850
+2026-06-22,Supplier Alpha,Premium Widget,69,8280
+2026-06-22,Supplier Beta,Gadget Lite,65,3575
+2026-06-22,Supplier Beta,Premium Widget,124,14880
+2026-06-22,Supplier Beta,Declining Product,190,12350
+2026-06-23,Vendor 12,Standard Widget,22,1100
+2026-06-23,Supplier Alpha,Gadget Pro,103,18025
+2026-06-23,Supplier Beta,Declining Product,64,4160
+2026-06-23,Supplier Alpha,Declining Product,73,4745
+2026-06-23,Supplier Beta,Budget Widget,43,774
+2026-06-23,Supplier Beta,Gadget Lite,101,5555
+2026-06-23,Vendor 6,Standard Widget,41,2050
+2026-06-24,Supplier Alpha,Gadget Pro,79,13825
+2026-06-24,Vendor 3,Gadget Pro,177,30975
+2026-06-24,Supplier Beta,Low Stock Item,32,4160
+2026-06-25,Vendor 12,Declining Product,189,12285
+2026-06-25,Supplier Beta,Gadget Lite,47,2585
+2026-06-25,Vendor 5,Declining Product,124,8060
+2026-06-25,Vendor 13,Gadget Lite,46,2530
+2026-06-25,Supplier Beta,Low Stock Item,80,10400
+2026-06-25,Supplier Beta,Premium Widget,47,5640
+2026-06-26,Supplier Beta,Gadget Pro,62,10850
+2026-06-26,Supplier Beta,Premium Widget,54,6480
+2026-06-26,Supplier Beta,Budget Widget,105,1890
+2026-06-26,Supplier Beta,Gadget Pro,144,25200
+2026-06-26,Supplier Alpha,Budget Widget,49,882
+2026-06-26,Supplier Alpha,Standard Widget,21,1050
+2026-06-26,Vendor 3,Standard Widget,138,6900
+2026-06-26,Vendor 2,Standard Widget,187,9350
+2026-06-27,Supplier Alpha,Standard Widget,41,2050
+2026-06-27,Vendor 10,Low Stock Item,33,4290
+2026-06-28,Vendor 9,Budget Widget,133,2394
+2026-06-28,Vendor 6,Gadget Lite,105,5775
+2026-06-29,Supplier Beta,Standard Widget,94,4700
+2026-06-29,Supplier Alpha,Standard Widget,163,8150
+2026-06-29,Supplier Alpha,Standard Widget,52,2600
+2026-06-29,Vendor 12,Premium Widget,160,19200
+2026-06-30,Vendor 4,Declining Product,119,7735
+2026-06-30,Supplier Beta,Low Stock Item,152,19760
+2026-06-30,Supplier Alpha,Low Stock Item,89,11570
+2026-06-30,Supplier Beta,Standard Widget,55,2750
+2026-06-30,Supplier Beta,Budget Widget,150,2700
+2026-06-30,Supplier Beta,Declining Product,56,3640
+2026-06-30,Supplier Alpha,Declining Product,33,2145
+2026-06-30,Supplier Beta,Budget Widget,120,2160
+2026-07-01,Supplier Beta,Budget Widget,164,2952
+2026-07-01,Supplier Alpha,Low Stock Item,35,4550
+2026-07-01,Supplier Alpha,Low Stock Item,96,12480
+2026-07-01,Supplier Alpha,Premium Widget,126,15120
+2026-07-01,Supplier Beta,Budget Widget,123,2214
+2026-07-01,Vendor 6,Low Stock Item,156,20280
+2026-07-01,Vendor 10,Low Stock Item,147,19110
+2026-07-01,Supplier Beta,Budget Widget,96,1728
+2026-07-02,Vendor 4,Premium Widget,56,6720
+2026-07-02,Vendor 11,Budget Widget,55,990
+2026-07-02,Supplier Alpha,Low Stock Item,64,8320
+2026-07-02,Supplier Alpha,Gadget Pro,165,28875
+2026-07-02,Vendor 10,Low Stock Item,43,5590
+2026-07-03,Supplier Alpha,Premium Widget,66,7920
+2026-07-03,Vendor 2,Budget Widget,187,3366
+2026-07-03,Supplier Alpha,Gadget Pro,195,34125
+2026-07-03,Supplier Alpha,Standard Widget,118,5900
+2026-07-03,Supplier Alpha,Budget Widget,94,1692
+2026-07-03,Vendor 12,Declining Product,191,12415
+2026-07-03,Supplier Alpha,Declining Product,22,1430
+2026-07-04,Vendor 14,Declining Product,147,9555
+2026-07-04,Supplier Alpha,Low Stock Item,33,4290
+2026-07-05,Supplier Alpha,Standard Widget,130,6500
+2026-07-05,Supplier Alpha,Budget Widget,138,2484
+2026-07-05,Supplier Beta,Standard Widget,61,3050
+2026-07-05,Supplier Beta,Low Stock Item,99,12870
+2026-07-05,Supplier Alpha,Premium Widget,35,4200
+2026-07-05,Vendor 4,Standard Widget,75,3750
+2026-07-05,Vendor 9,Gadget Pro,110,19250
+2026-07-05,Vendor 4,Declining Product,131,8515
+2026-07-06,Supplier Beta,Low Stock Item,107,13910
+2026-07-06,Supplier Alpha,Low Stock Item,128,16640
+2026-07-06,Vendor 5,Gadget Lite,107,5885
+2026-07-06,Supplier Beta,Low Stock Item,58,7540
+2026-07-06,Supplier Alpha,Premium Widget,54,6480
+2026-07-07,Supplier Alpha,Standard Widget,111,5550
+2026-07-07,Vendor 6,Low Stock Item,148,19240
+2026-07-07,Supplier Alpha,Gadget Pro,177,30975
+2026-07-07,Supplier Alpha,Premium Widget,142,17040
+2026-07-07,Supplier Beta,Premium Widget,52,6240
+2026-07-07,Vendor 13,Budget Widget,139,2502
+2026-07-07,Supplier Beta,Declining Product,34,2210
+2026-07-08,Supplier Alpha,Gadget Lite,96,5280
+2026-07-08,Supplier Beta,Budget Widget,140,2520
+2026-07-08,Supplier Beta,Premium Widget,46,5520
+2026-07-08,Supplier Alpha,Budget Widget,197,3546
+2026-07-08,Vendor 13,Low Stock Item,144,18720
+2026-07-09,Supplier Alpha,Standard Widget,96,4800
+2026-07-09,Supplier Beta,Budget Widget,173,3114
+2026-07-09,Vendor 7,Standard Widget,166,8300
+2026-07-10,Vendor 9,Budget Widget,115,2070
+2026-07-10,Supplier Alpha,Gadget Lite,23,1265
+2026-07-10,Vendor 1,Standard Widget,108,5400
+2026-07-10,Supplier Beta,Low Stock Item,141,18330
+2026-07-11,Supplier Alpha,Gadget Pro,141,24675
+2026-07-11,Supplier Alpha,Declining Product,182,11830
+2026-07-11,Supplier Alpha,Declining Product,98,6370
+2026-07-12,Supplier Alpha,Standard Widget,80,4000
+2026-07-12,Supplier Beta,Gadget Lite,61,3355
+2026-07-12,Vendor 9,Gadget Lite,160,8800
+2026-07-13,Supplier Beta,Declining Product,183,11895
+2026-07-13,Supplier Beta,Premium Widget,116,13920
+2026-07-14,Supplier Beta,Low Stock Item,178,23140
+2026-07-14,Supplier Alpha,Low Stock Item,123,15990
+2026-07-14,Supplier Beta,Standard Widget,189,9450
+2026-07-14,Vendor 4,Budget Widget,125,2250
+2026-07-14,Supplier Beta,Gadget Lite,26,1430
+2026-07-14,Supplier Alpha,Gadget Lite,50,2750
+2026-07-14,Vendor 9,Declining Product,21,1365
+2026-07-15,Supplier Alpha,Premium Widget,157,18840
+2026-07-15,Vendor 3,Standard Widget,34,1700
+2026-07-15,Supplier Alpha,Gadget Pro,62,10850
+2026-07-15,Supplier Alpha,Low Stock Item,111,14430
+2026-07-15,Supplier Alpha,Low Stock Item,166,21580
+2026-07-15,Supplier Beta,Declining Product,118,7670
+2026-07-15,Supplier Beta,Premium Widget,23,2760
+2026-07-16,Supplier Beta,Gadget Lite,157,8635
+2026-07-16,Supplier Beta,Gadget Lite,110,6050
+2026-07-16,Vendor 10,Gadget Pro,45,7875
+2026-07-16,Vendor 8,Standard Widget,165,8250
+2026-07-16,Supplier Beta,Declining Product,102,6630
+2026-07-16,Supplier Beta,Low Stock Item,155,20150
+2026-07-16,Supplier Beta,Declining Product,129,8385
+2026-07-16,Vendor 3,Declining Product,70,4550
+2026-07-17,Supplier Alpha,Gadget Lite,109,5995
+2026-07-17,Supplier Beta,Gadget Lite,107,5885
+2026-07-18,Supplier Alpha,Standard Widget,138,6900
+2026-07-18,Vendor 1,Gadget Pro,197,34475
+2026-07-19,Supplier Beta,Premium Widget,189,22680
+2026-07-19,Vendor 7,Low Stock Item,85,11050
+2026-07-19,Vendor 11,Gadget Pro,100,17500
+2026-07-19,Supplier Beta,Declining Product,157,10205
+2026-07-19,Supplier Beta,Declining Product,182,11830
+2026-07-19,Vendor 12,Gadget Pro,85,14875
+2026-07-19,Supplier Alpha,Budget Widget,62,1116
+2026-07-20,Supplier Alpha,Premium Widget,21,2520
+2026-07-20,Vendor 14,Premium Widget,198,23760
+2026-07-20,Supplier Beta,Budget Widget,68,1224
+2026-07-20,Supplier Beta,Declining Product,44,2860
+2026-07-20,Supplier Beta,Standard Widget,149,7450
+2026-07-20,Vendor 4,Standard Widget,57,2850
+2026-07-20,Supplier Alpha,Standard Widget,143,7150
+2026-07-21,Vendor 3,Gadget Pro,56,9800
+2026-07-21,Vendor 4,Gadget Pro,80,14000
+2026-07-21,Supplier Alpha,Premium Widget,107,12840
+2026-07-21,Supplier Beta,Declining Product,123,7995
+2026-07-21,Supplier Beta,Gadget Lite,131,7205
+2026-07-22,Supplier Alpha,Premium Widget,24,2880
+2026-07-22,Vendor 10,Premium Widget,51,6120
+2026-07-23,Vendor 3,Gadget Pro,88,15400
+2026-07-23,Supplier Alpha,Low Stock Item,75,9750
+2026-07-23,Supplier Alpha,Budget Widget,150,2700
+2026-07-23,Supplier Alpha,Budget Widget,34,612
+2026-07-23,Supplier Beta,Standard Widget,42,2100
+2026-07-23,Vendor 12,Budget Widget,182,3276
+2026-07-24,Supplier Alpha,Gadget Pro,24,4200
+2026-07-24,Supplier Beta,Declining Product,106,6890
+2026-07-24,Supplier Alpha,Gadget Pro,74,12950
+2026-07-24,Supplier Alpha,Gadget Pro,161,28175
+2026-07-25,Vendor 8,Premium Widget,190,22800
+2026-07-25,Vendor 5,Budget Widget,85,1530
+2026-07-25,Supplier Beta,Premium Widget,46,5520
+2026-07-26,Supplier Alpha,Standard Widget,149,7450
+2026-07-26,Supplier Beta,Gadget Lite,47,2585
+2026-07-26,Supplier Beta,Standard Widget,177,8850
+2026-07-26,Supplier Beta,Gadget Pro,91,15925
+2026-07-26,Vendor 8,Premium Widget,36,4320
+2026-07-26,Supplier Beta,Standard Widget,78,3900
+2026-07-26,Vendor 8,Gadget Pro,29,5075
+2026-07-27,Supplier Beta,Standard Widget,122,6100
+2026-07-27,Supplier Beta,Gadget Lite,164,9020
+2026-07-28,Supplier Beta,Low Stock Item,79,10270
+2026-07-28,Supplier Alpha,Low Stock Item,59,7670
+2026-07-28,Vendor 3,Gadget Pro,185,32375
+2026-07-28,Supplier Beta,Declining Product,173,11245
+2026-07-28,Supplier Alpha,Declining Product,197,12805
+2026-07-29,Supplier Beta,Low Stock Item,119,15470
+2026-07-29,Supplier Beta,Declining Product,123,7995
+2026-07-30,Vendor 2,Gadget Lite,162,8910
+2026-07-30,Supplier Alpha,Gadget Lite,42,2310
+2026-07-30,Vendor 8,Budget Widget,148,2664
+2026-07-30,Supplier Alpha,Budget Widget,163,2934
+2026-07-30,Vendor 1,Low Stock Item,146,18980
+2026-07-30,Supplier Alpha,Gadget Pro,116,20300
+2026-07-30,Supplier Beta,Low Stock Item,54,7020
+2026-07-30,Supplier Beta,Low Stock Item,44,5720
+2026-07-31,Supplier Alpha,Gadget Pro,141,24675
+2026-07-31,Supplier Beta,Low Stock Item,130,16900
+2026-07-31,Supplier Beta,Gadget Pro,90,15750
+2026-07-31,Vendor 7,Budget Widget,190,3420
+2026-07-31,Supplier Alpha,Premium Widget,126,15120
+2026-07-31,Vendor 13,Low Stock Item,166,21580
+2026-08-01,Supplier Beta,Low Stock Item,81,10530
+2026-08-01,Supplier Alpha,Gadget Lite,109,5995
+2026-08-01,Supplier Beta,Budget Widget,123,2214
+2026-08-01,Supplier Alpha,Budget Widget,94,1692
+2026-08-01,Supplier Alpha,Low Stock Item,152,19760
+2026-08-01,Supplier Alpha,Budget Widget,162,2916
+2026-08-01,Vendor 4,Premium Widget,175,21000
+2026-08-02,Vendor 3,Declining Product,61,3965
+2026-08-02,Vendor 14,Gadget Lite,133,7315
+2026-08-02,Supplier Alpha,Budget Widget,32,576
+2026-08-02,Supplier Alpha,Standard Widget,148,7400
+2026-08-02,Supplier Alpha,Declining Product,189,12285
+2026-08-02,Supplier Beta,Declining Product,190,12350
+2026-08-02,Supplier Alpha,Standard Widget,92,4600
+2026-08-02,Supplier Alpha,Declining Product,76,4940
+2026-08-03,Supplier Beta,Budget Widget,136,2448
+2026-08-03,Vendor 5,Premium Widget,141,16920
+2026-08-03,Supplier Alpha,Low Stock Item,89,11570
+2026-08-03,Supplier Alpha,Premium Widget,35,4200
+2026-08-03,Supplier Alpha,Gadget Lite,43,2365
+2026-08-04,Supplier Alpha,Gadget Pro,50,8750
+2026-08-04,Supplier Alpha,Budget Widget,22,396
+2026-08-04,Supplier Alpha,Gadget Lite,184,10120
+2026-08-05,Supplier Beta,Gadget Pro,182,31850
+2026-08-05,Supplier Alpha,Low Stock Item,58,7540
+2026-08-05,Supplier Beta,Standard Widget,88,4400
+2026-08-05,Supplier Beta,Gadget Pro,127,22225
+2026-08-05,Vendor 6,Declining Product,39,2535
+2026-08-05,Supplier Beta,Declining Product,163,10595
+2026-08-06,Vendor 6,Gadget Pro,182,31850
+2026-08-06,Supplier Alpha,Standard Widget,121,6050
+2026-08-06,Vendor 10,Gadget Lite,133,7315
+2026-08-06,Supplier Alpha,Gadget Pro,171,29925
+2026-08-06,Supplier Beta,Gadget Pro,196,34300
+2026-08-06,Supplier Alpha,Gadget Pro,192,33600
+2026-08-07,Vendor 14,Low Stock Item,77,10010
+2026-08-07,Supplier Alpha,Gadget Lite,116,6380
+2026-08-07,Supplier Alpha,Low Stock Item,140,18200
+2026-08-07,Supplier Beta,Low Stock Item,38,4940
+2026-08-07,Supplier Beta,Declining Product,194,12610
+2026-08-07,Supplier Alpha,Declining Product,166,10790
+2026-08-08,Supplier Alpha,Gadget Pro,137,23975
+2026-08-08,Vendor 11,Premium Widget,192,23040
+2026-08-08,Vendor 13,Gadget Pro,128,22400
+2026-08-08,Supplier Beta,Budget Widget,136,2448
+2026-08-08,Vendor 13,Budget Widget,157,2826
+2026-08-08,Vendor 6,Gadget Lite,172,9460
+2026-08-08,Supplier Beta,Low Stock Item,138,17940
+2026-08-08,Supplier Beta,Standard Widget,197,9850
+2026-08-09,Vendor 11,Low Stock Item,24,3120
+2026-08-09,Supplier Beta,Budget Widget,28,504
+2026-08-09,Vendor 7,Low Stock Item,54,7020
+2026-08-09,Supplier Alpha,Gadget Lite,141,7755
+2026-08-09,Supplier Alpha,Low Stock Item,81,10530
+2026-08-09,Supplier Beta,Gadget Pro,43,7525
+2026-08-09,Vendor 12,Standard Widget,131,6550
+2026-08-10,Supplier Beta,Gadget Lite,106,5830
+2026-08-10,Supplier Beta,Standard Widget,185,9250
+2026-08-10,Vendor 6,Budget Widget,123,2214
+2026-08-10,Supplier Beta,Standard Widget,40,2000
+2026-08-10,Vendor 4,Standard Widget,37,1850
+2026-08-11,Supplier Beta,Low Stock Item,132,17160
+2026-08-11,Supplier Alpha,Gadget Lite,180,9900
+2026-08-11,Supplier Alpha,Standard Widget,193,9650
+2026-08-12,Supplier Beta,Budget Widget,147,2646
+2026-08-12,Supplier Alpha,Premium Widget,151,18120
+2026-08-12,Supplier Alpha,Declining Product,195,12675
+2026-08-13,Supplier Alpha,Gadget Lite,197,10835
+2026-08-13,Supplier Alpha,Declining Product,52,3380
+2026-08-14,Supplier Alpha,Budget Widget,92,1656
+2026-08-14,Supplier Beta,Budget Widget,179,3222
+2026-08-14,Supplier Beta,Budget Widget,136,2448
+2026-08-15,Supplier Beta,Low Stock Item,121,15730
+2026-08-15,Supplier Alpha,Gadget Pro,132,23100
+2026-08-16,Vendor 5,Low Stock Item,155,20150
+2026-08-16,Supplier Beta,Standard Widget,85,4250
+2026-08-16,Supplier Beta,Gadget Lite,32,1760
+2026-08-16,Vendor 5,Premium Widget,126,15120
+2026-08-16,Vendor 11,Gadget Pro,197,34475
+2026-08-16,Vendor 8,Standard Widget,88,4400
+2026-08-16,Supplier Beta,Standard Widget,163,8150
+2026-08-16,Supplier Alpha,Premium Widget,83,9960
+2026-08-17,Vendor 6,Gadget Lite,121,6655
+2026-08-17,Supplier Alpha,Premium Widget,193,23160
+2026-08-17,Vendor 2,Low Stock Item,139,18070
+2026-08-18,Supplier Alpha,Budget Widget,105,1890
+2026-08-18,Vendor 10,Gadget Lite,173,9515
+2026-08-19,Vendor 1,Declining Product,40,2600
+2026-08-19,Vendor 14,Low Stock Item,160,20800
+2026-08-19,Vendor 1,Standard Widget,64,3200
+2026-08-20,Supplier Beta,Premium Widget,100,12000
+2026-08-20,Supplier Beta,Declining Product,47,3055
+2026-08-21,Vendor 2,Declining Product,80,5200
+2026-08-21,Supplier Beta,Gadget Pro,85,14875
+2026-08-21,Vendor 5,Declining Product,108,7020
+2026-08-21,Supplier Beta,Premium Widget,66,7920
+2026-08-21,Vendor 14,Standard Widget,107,5350
+2026-08-21,Supplier Alpha,Declining Product,97,6305
+2026-08-21,Vendor 2,Budget Widget,187,3366
+2026-08-21,Supplier Alpha,Premium Widget,196,23520
+2026-08-22,Supplier Alpha,Low Stock Item,125,16250
+2026-08-22,Vendor 9,Declining Product,105,6825
+2026-08-22,Supplier Beta,Budget Widget,87,1566
+2026-08-23,Supplier Beta,Gadget Lite,186,10230
+2026-08-23,Supplier Alpha,Declining Product,113,7345
+2026-08-23,Supplier Beta,Declining Product,25,1625
+2026-08-24,Supplier Beta,Low Stock Item,129,16770
+2026-08-24,Vendor 11,Gadget Lite,193,10615
+2026-08-24,Supplier Alpha,Gadget Lite,73,4015
+2026-08-24,Supplier Beta,Gadget Lite,107,5885
+2026-08-24,Supplier Beta,Low Stock Item,130,16900
+2026-08-24,Supplier Alpha,Gadget Pro,100,17500
+2026-08-24,Supplier Alpha,Low Stock Item,24,3120
+2026-08-24,Supplier Alpha,Budget Widget,39,702
+2026-08-25,Supplier Alpha,Declining Product,73,4745
+2026-08-25,Supplier Beta,Gadget Pro,123,21525
+2026-08-25,Supplier Alpha,Standard Widget,136,6800
+2026-08-25,Supplier Alpha,Budget Widget,178,3204
+2026-08-25,Supplier Alpha,Gadget Lite,64,3520
+2026-08-25,Supplier Beta,Gadget Lite,80,4400
+2026-08-25,Vendor 5,Gadget Lite,140,7700
+2026-08-25,Vendor 12,Low Stock Item,163,21190
+2026-08-26,Supplier Alpha,Gadget Pro,24,4200
+2026-08-26,Supplier Alpha,Declining Product,74,4810
+2026-08-27,Supplier Alpha,Gadget Pro,82,14350
+2026-08-27,Vendor 13,Declining Product,52,3380
+2026-08-27,Supplier Alpha,Standard Widget,161,8050
+2026-08-28,Supplier Alpha,Premium Widget,197,23640
+2026-08-28,Vendor 10,Standard Widget,95,4750
+2026-08-28,Vendor 12,Premium Widget,55,6600
+2026-08-28,Supplier Alpha,Premium Widget,26,3120
+2026-08-28,Supplier Alpha,Gadget Lite,156,8580
+2026-08-29,Supplier Alpha,Budget Widget,113,2034
+2026-08-29,Supplier Beta,Low Stock Item,42,5460
+2026-08-30,Supplier Alpha,Gadget Pro,166,29050
+2026-08-30,Supplier Beta,Low Stock Item,41,5330
+2026-08-30,Supplier Alpha,Low Stock Item,58,7540
+2026-08-30,Supplier Beta,Low Stock Item,51,6630
+2026-08-30,Supplier Alpha,Budget Widget,72,1296
+2026-08-31,Vendor 4,Budget Widget,130,2340
+2026-08-31,Supplier Beta,Gadget Pro,55,9625

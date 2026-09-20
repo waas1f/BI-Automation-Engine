@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Testing & caching
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Streamlit
+.streamlit/
+
+# Generated reports and chart assets
+reports/*.pdf
+reports/assets/*.png
+reports/assets/*.jpg
+reports/assets/*.svg
+
+# Data files (keep only committed sample/test/messy fixtures)
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+!data/sample/*.csv
+!data/sample/*.xls
+!data/sample/*.xlsx
+!data/test/*.csv
+!data/test/*.xls
+!data/test/*.xlsx
+!data/messy/*.csv
+!data/messy/*.xls
+!data/messy/*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Secrets & credentials
+.env
+.env.local
+*.key
+*.pem

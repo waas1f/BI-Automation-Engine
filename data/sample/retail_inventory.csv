@@ -1,0 +1,11 @@
+Product,Category,Stock Level,Reorder Level
+Bread,Bakery,14,30
+Milk,Dairy,10,30
+Soda,Beverages,9,30
+Chips,Snacks,99,30
+Canned Soup,Canned Goods,455,30
+Frozen Pizza,Frozen,32,30
+Cereal,Breakfast,55,30
+Pasta,Dry Goods,44,30
+Cooking Oil,Pantry,91,30
+Spices,Pantry,89,30

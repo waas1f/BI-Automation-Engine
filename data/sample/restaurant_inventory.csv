@@ -1,0 +1,11 @@
+Item,Category,Stock Level,Reorder Level
+Margherita Pizza,Pizza,50,20
+Pepperoni Pizza,Pizza,92,20
+Caesar Salad,Salads,40,20
+Beef Burger,Burgers,88,20
+Chicken Wings,Appetizers,80,20
+French Fries,Sides,31,20
+Soda,Drinks,98,20
+Coffee,Drinks,87,20
+Tiramisu,Desserts,70,20
+Bruschetta,Appetizers,71,20

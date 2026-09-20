@@ -1,0 +1,8 @@
+Product,Category,Stock Level,Reorder Level,Unit Cost
+Premium Widget,Widgets,66,43,120
+Standard Widget,Widgets,227,34,50
+Budget Widget,Widgets,410,39,18
+Declining Product,Gadgets,329,32,65
+Low Stock Item,Gadgets,4,20,130
+Gadget Pro,Gadgets,115,43,175
+Gadget Lite,Gadgets,270,39,55
