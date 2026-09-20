@@ -114,10 +114,7 @@ python -m app.main wholesale data/sample/wholesale_sales.csv --name "Acme" --ai 
 ```
 
 ### Streamlit Web UI
-
-```bash
-streamlit run streamlit_app.py
-```
+https://bi-automation-engine-gfp2h2hvyzgy5dcmhsq6r9.streamlit.app/
 
 The Streamlit app provides a clean demo interface:
 1. Select business type (Wholesale, Retail, or Restaurant)
@@ -125,14 +122,6 @@ The Streamlit app provides a clean demo interface:
 3. Click Analyze
 4. View KPIs, findings, charts, and data quality summary
 5. Download a professional PDF report
-
-### Deploy to Streamlit Cloud
-
-1. Push this project to a GitHub repository
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo and select `streamlit_app.py` as the entry point
-4. Set the Python version to 3.10+
-5. Deploy — Streamlit Cloud will install `requirements.txt` automatically
 
 ### Python API
 
